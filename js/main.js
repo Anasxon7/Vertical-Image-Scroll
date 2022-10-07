@@ -1,3 +1,5 @@
+console.clear();
+
 gsap.registerPlugin(ScrollTrigger);
 
 const additionalY = { val: 0 };
